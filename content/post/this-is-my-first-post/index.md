@@ -4,7 +4,7 @@ subtitle: a note
 date: 2020-05-09T16:58:14.159Z
 summary: This is a post that is a test
 draft: false
-featured: false
+featured: true
 image:
   filename: wallhaven-vmgjxm.jpg
   focal_point: CENTER
